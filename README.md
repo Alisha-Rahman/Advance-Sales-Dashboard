@@ -106,12 +106,8 @@ I followed a YouTube tutorial while building this project as part of my learning
 
 ## 📸 Dashboard Preview
 
-![Advance Sales Dashboard]()
+![Advance Sales Dashboard](https://github.com/Alisha-Rahman/Advance-Sales-Dashboard/blob/main/Advance%20Sales%20Dashboard%20snapshot.png)
 
-## 📁 Project Files
-
-- `SuperStore Sales Dashboard.pbit` – Power BI template file
-- `SuperStore Dashboard Preview.png` – Combined dashboard preview
 
 ## 🚀 Conclusion
 
@@ -119,8 +115,3 @@ This project helped me gain practical experience in Power BI and strengthened my
 
 It is another step in building my Data Analytics portfolio through hands-on projects.
 
----
-
-### 📌 Tech Stack
-
-**Power BI | Power Query | DAX | Data Visualization | Sales Analytics**
